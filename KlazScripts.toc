@@ -1,0 +1,20 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffScripts|r
+## Author: Klaz
+## Notes: Adds quality of life automation and adjustments to the default user interface.
+## IconTexture: Interface\AddOns\KlazScripts\Media\KlazAddOnIcon.blp
+
+Core\Localization.lua
+Core\Functions.lua
+Core\Commands.lua
+Core\Config.lua
+
+Modules\Announcements\Interrupts.lua
+Modules\Announcements\Sound.lua
+Modules\Automation\EasyDelete.lua
+Modules\Automation\MailMoney.lua
+Modules\Automation\NoEscape.lua
+Modules\Automation\Repair.lua
+Modules\Automation\ReputationTracker.lua
+Modules\Automation\SellJunk.lua
+Modules\Maps\WorldMap.lua
